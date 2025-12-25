@@ -160,6 +160,7 @@ Contributions are welcome! Feel free to:
 
 ## 🗺️ Roadmap
 
+- [x] Initial release with core features
 - [ ] Syntax highlighting for common languages
 - [ ] Split views
 - [ ] Find and replace
