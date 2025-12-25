@@ -1,0 +1,41 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+*.idb
+
+# Build directories
+build/
+bin/
+obj/
+Debug/
+Release/
+
+# IDE files
+.vscode/
+.vs/
+*.suo
+*.user
+*.sln
+*.vcxproj*
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
